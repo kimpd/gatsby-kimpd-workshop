@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://kimpd.net">
+    <img alt="KimPD" src="https://kimpd.net/KimPD-Badge-360.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  KimPD's Workshop
 </h1>
 
 ## 🚀 Quick start
