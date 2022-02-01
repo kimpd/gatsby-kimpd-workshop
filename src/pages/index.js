@@ -12,6 +12,6 @@ function IndexPage() {
       />
     </Layout>
   )
-}
+};
 
 export default IndexPage
